@@ -1,8 +1,8 @@
-name: Swift
+name: Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [ async-test ]
 
 jobs:
   test:
